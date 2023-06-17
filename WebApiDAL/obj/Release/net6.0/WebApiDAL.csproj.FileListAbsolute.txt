@@ -1,0 +1,15 @@
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\bin\Release\net6.0\WebApiDAL.deps.json
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\bin\Release\net6.0\WebApiDAL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\bin\Release\net6.0\WebApiDAL.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\bin\Release\net6.0\Entities.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\bin\Release\net6.0\Entities.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.csproj.AssemblyReference.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.AssemblyInfoInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.AssemblyInfo.cs
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.csproj.CoreCompileInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.csproj.CopyComplete
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\refint\WebApiDAL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\WebApiDAL.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Visual Studio 2022\WebApi\WebApiDAL\obj\Release\net6.0\ref\WebApiDAL.dll

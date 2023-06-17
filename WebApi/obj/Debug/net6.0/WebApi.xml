@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.SalesReasonController.GetAllSalesReason">
+            <summary>
+            Retorna una lista de sales reasons.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SalesReasonController.GetSalesReasonById(System.Int32)">
+            <summary>
+            Obtener un sales reason por su id.
+            </summary>
+            <param name="salesReasonId"></param>
+            <returns><see cref="T:Entities.Sales.SalesReason"/></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SalesReasonController.CreateSalesReason(Entities.Sales.SalesReason)">
+            <summary>
+            Crea un nuevo sales reason
+            </summary>
+            <param name="salesReason"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SalesReasonController.UpdateSalesReason(Entities.Sales.SalesReason)">
+            <summary>
+            Modifica un sales reason
+            </summary>
+            <param name="salesReason"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SalesReasonController.DeleteSalesReason(System.Int32)">
+            <summary>
+            Eliminar un sales reason
+            </summary>
+            <param name="salesReasonId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
